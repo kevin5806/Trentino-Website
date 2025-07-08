@@ -1,3 +1,3 @@
-Banale pagina web statica creata come esercitazione scolastica durante il mio percorso di studi.
+# Trentino-Website
 
-Host: Cloudflare Pages
+Semplice pagina web statica, creata nel 2023, come esercitazione scolastica durante il mio percorso di studi.
